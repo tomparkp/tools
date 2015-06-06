@@ -13,3 +13,7 @@ A list of interesting tools for app design/development.
 ## Debugging Tools
 
 * [Vorlon](http://vorlonjs.com/) - A tool for remote debugging Javascript by Microsoft.
+
+## Reference
+
+* [iOS Design Guidelines](http://iosdesign.ivomynttinen.com/) includes helpful information on things like resolution, device size, typography, colors for iOS.
