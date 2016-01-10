@@ -2,6 +2,11 @@
 
 A list of interesting tools and resources for app design/development.
 
+## Learning
+
+* [Treehouse](http://teamtreehouse.com) - A great learning resources for beginners, a bit lacking in advanced content.
+* [Tuts+](http://tutsplus.com/) - Not as polished as something like Treehouse but a much wider range of content.
+
 ## Discovery/Inspiration
 
 * [Product Hunt](https://www.producthunt.com/) - Interesting products every day.
