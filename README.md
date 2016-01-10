@@ -9,10 +9,13 @@ A list of interesting tools and resources for app design/development.
 
 ### Discovery/Inspiration
 
+* [Dribbble](https://dribbble.com/) - The king of design communities.
+* [Pttrns](http://pttrns.com/) - A great site for discovering UI/UX patterns.
 * [Product Hunt](https://www.producthunt.com/) - Interesting products every day.
 
 ### Project Management
 
+* [Basecamp](https://basecamp.com/) - The 300 pound gorilla of project management.
 * [Teamgrid](http://www.teamgridapp.com/) - A really cool looking management tool specifically for remote teams.
 * [Blossom](http://www.blossom.io) - Agile project management that actually seems enjoyable.
 
@@ -21,10 +24,19 @@ A list of interesting tools and resources for app design/development.
 * [HockeyApp](http://hockeyapp.net/) - Still the best in mobile app distribution IMHO.
 * [BuddyBuild](http://buddybuild.com/) - An impressive looking alternative to something like HockeyApp.
 * [Surge](http://surge.sh/) - Easy deployments for static websites.
+* [Deploybot](http://deploybot.com/) - Beautiful deployments from Wildbit.
 * [FTPloy](http://ftploy.com/) - Automatic deployment from Github or Bitbucket.
 
-### Hosting/Storage
+### Code Hosting
 
+* [Github](https://github.com/) - The undisputed champion of code hosting.
+* [Beanstalk](http://beanstalkapp.com/) - The only other code hosting worth its salt.
+
+### Web Hosting/Storage
+
+* [Heroku](https://www.heroku.com/) - The easiest platform for hosting web apps.
+* [Webfaction](https://www.webfaction.com/) - Cheap, reliable semi-managed hosting.
+* [Digital Ocean](https://www.digitalocean.com/) - The best for cheap, fast DIY cloud hosting.
 * [Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/cloud-storage.html) - Extremely cheap cloud storage.
 
 ### Prototyping
@@ -38,9 +50,12 @@ A list of interesting tools and resources for app design/development.
 
 ### Code Editors
 
+* [Atom](https://atom.io/) - Supplanted Sublime as the best all-around code editor.
 * [Visual Studio Code](http://code.visualstudio.com/) - A new web editor from Microsoft.
 
 ### Frontend Web
+
+* [Scarlet](http://scarlet.macaw.co/) - An unreleased but very promising looking IDE for frontend web.
 * [Middleman](https://middlemanapp.com/) - My favorite static site generator.
 * [Webflow](https://webflow.com) - A web development and CMS tool in one.
 
