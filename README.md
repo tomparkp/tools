@@ -13,6 +13,7 @@ A list of interesting tools and resources for app design/development.
 
 ### Project Management
 
+* [Teamgrid](http://www.teamgridapp.com/) - A really cool looking management tool specifically for remote teams.
 * [Blossom](http://www.blossom.io) - Agile project management that actually seems enjoyable.
 
 ### Deployment
@@ -20,6 +21,7 @@ A list of interesting tools and resources for app design/development.
 * [HockeyApp](http://hockeyapp.net/) - Still the best in mobile app distribution IMHO.
 * [BuddyBuild](http://buddybuild.com/) - An impressive looking alternative to something like HockeyApp.
 * [Surge](http://surge.sh/) - Easy deployments for static websites.
+* [FTPloy](http://ftploy.com/) - Automatic deployment from Github or Bitbucket.
 
 ### Hosting/Storage
 
@@ -27,7 +29,11 @@ A list of interesting tools and resources for app design/development.
 
 ### Prototyping
 
+* [Silverflows](http://silverflows.com/) - Prototyping directly inside of Sketch.
 * [Creo](http://www.creolabs.com/) - Essentially a third party Interface Builder for iOS apps. Looks very promising but projects like this rarely last.
+* [Atomic](https://atomic.io/) - A well polished prototyping and animation tool.
+* [Principle](http://principleformac.com/) - A native prototyping tool for OSX.
+* [Marvel](https://marvelapp.com/) - Yet another attractive web based prototyping tool.
 
 ### Code Editors
 
@@ -44,6 +50,7 @@ A list of interesting tools and resources for app design/development.
 ### Documentation
 
 * [Gelato](https://gelato.io/) - A promising tool for creating developer portals.
+* [ReadMe](https://readme.io) - Another nice platform for creating a developer portal.
 
 ### Analytics
 
@@ -62,13 +69,23 @@ A list of interesting tools and resources for app design/development.
 * [Mixmax](https://mixmax.com/) - A gmail extension that adds useful features like read tracking, send later, etc.
 * [Peer](https://www.peer.com/) - A tool for continuous, automated team feedback.
 
+### Security
+
+* [Vault](https://vaultproject.io/) - A tool for managing sensitive data within a dev team.
+
+### Presentations
+
+* [Slides](http://slides.com/) - My favorite presentation tool. Create in-browser presentations with videos, code snippets, etc.
+
 ### Customer Support
 * [Intercom](https://www.intercom.io/) - A very popular suite of customer support tools.
 
 ### Freelancing/Business
 
 * [Oscar Health Insurance](https://www.hioscar.com/) - A service that provides hope for those of us that actually want to like our insurance company.
-* [FormSwift](http://formswift.com/) - Create and sign legal documents for free. 
+* [FormSwift](http://formswift.com/) - Create and sign legal documents for free.
+* [SellItEasy](https://www.selliteasy.co) - A tool for busy people to sell things easily.
+* [Funnel](https://funnelnow.com/) - Contact forms, CRM, and proposals in one.
 
 ### Compliance
 
