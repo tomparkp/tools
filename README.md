@@ -34,14 +34,20 @@ A list of interesting tools and resources for app design/development.
 * [Atomic](https://atomic.io/) - A well polished prototyping and animation tool.
 * [Principle](http://principleformac.com/) - A native prototyping tool for OSX.
 * [Marvel](https://marvelapp.com/) - Yet another attractive web based prototyping tool.
+* [Pixate](http://www.pixate.com/) - A popular Google-owned prototyping tool.
 
 ### Code Editors
 
 * [Visual Studio Code](http://code.visualstudio.com/) - A new web editor from Microsoft.
 
+### Frontend Web
+* [Middleman](https://middlemanapp.com/) - My favorite static site generator.
+* [Webflow](https://webflow.com) - A web development and CMS tool in one.
+
 ### Debugging Tools
 
 * [Vorlon](http://vorlonjs.com/) - A tool for remote debugging Javascript by Microsoft.
+* [Reveal](http://revealapp.com/) - A tool for visually debugging iOS apps.
 
 ### Reference
 
@@ -59,6 +65,7 @@ A list of interesting tools and resources for app design/development.
 ### CMS
 
 * [Contenful](https://www.contentful.com) - A headless, API only CMS.
+* [Grav](http://getgrav.org/) - A modern flat file CMS.
 
 ### Web Frameworks
 
@@ -68,6 +75,11 @@ A list of interesting tools and resources for app design/development.
 
 * [Mixmax](https://mixmax.com/) - A gmail extension that adds useful features like read tracking, send later, etc.
 * [Peer](https://www.peer.com/) - A tool for continuous, automated team feedback.
+* [Finch](https://meetfinch.com/) - A super simple tool for sharing local websites with team members/clients.
+
+### Database
+
+* [Postico](https://eggerapps.at/postico/) - A beautiful PostgreSQL client for OSX.
 
 ### Security
 
@@ -86,6 +98,13 @@ A list of interesting tools and resources for app design/development.
 * [FormSwift](http://formswift.com/) - Create and sign legal documents for free.
 * [SellItEasy](https://www.selliteasy.co) - A tool for busy people to sell things easily.
 * [Funnel](https://funnelnow.com/) - Contact forms, CRM, and proposals in one.
+* [Insurance by Jack](http://insurancebyjack.co.uk/) - Currently UK only but a promising idea in the world of small business insurance.
+* [Concord](http://www.concordnow.com/) - A contract creation and management platform.
+* [Beagle](https://getbeagle.co/) - Very impressive looking platform for creating proposals.
+* [Dribbox](http://dribbbox.com/) - Your Dribbble profile as your portfolio, automatic and instant.
+
+### Blogging
+* [Svbtle](https://svbtle.com/) - A very simple platform for beautiful blog posts.
 
 ### Compliance
 
