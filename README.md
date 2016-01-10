@@ -1,6 +1,10 @@
 # Tools
 
-A list of interesting tools for app design/development.
+A list of interesting tools and resources for app design/development.
+
+## Discovery/Inspiration
+
+* [Product Hunt](https://www.producthunt.com/) - Interesting products every day.
 
 ## Project Management
 
