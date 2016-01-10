@@ -49,9 +49,21 @@ A list of interesting tools and resources for app design/development.
 
 * [Galileo](https://getgalileo.io/) - A beautifully designed tool for monitoring, visualizing, and debugging API traffic.
 
+### CMS
+
+* [Contenful](https://www.contentful.com) - A headless, API only CMS.
+
+### Web Frameworks
+
+* [Sails.js](http://sailsjs.org/) - The first backend JS framework that actually looks appealing to me.
+
 ### Communication
 
 * [Mixmax](https://mixmax.com/) - A gmail extension that adds useful features like read tracking, send later, etc.
+* [Peer](https://www.peer.com/) - A tool for continuous, automated team feedback.
+
+### Customer Support
+* [Intercom](https://www.intercom.io/) - A very popular suite of customer support tools.
 
 ### Freelancing/Business
 
