@@ -25,6 +25,10 @@ A list of interesting tools and resources for app design/development.
 
 * [Backblaze B2 Cloud Storage](https://www.backblaze.com/b2/cloud-storage.html) - Extremely cheap cloud storage.
 
+## Prototyping
+
+* [Creo](http://www.creolabs.com/) - Essentially a third party Interface Builder for iOS apps. Looks very promising but projects like this rarely last.
+
 ## Code Editors
 
 * [Visual Studio Code](http://code.visualstudio.com/) - A new web editor from Microsoft.
@@ -52,6 +56,7 @@ A list of interesting tools and resources for app design/development.
 ## Freelancing/Business
 
 * [Oscar Health Insurance](https://www.hioscar.com/) - A service that provides hope for those of us that actually want to like our insurance company.
+* [FormSwift](http://formswift.com/) - Create and sign legal documents for free. 
 
 ## Compliance
 
