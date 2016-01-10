@@ -103,8 +103,13 @@ A list of interesting tools and resources for app design/development.
 * [Beagle](https://getbeagle.co/) - Very impressive looking platform for creating proposals.
 * [Dribbox](http://dribbbox.com/) - Your Dribbble profile as your portfolio, automatic and instant.
 
+### Domain Management
+
+* [Park](http://park.io/) - Easy domain backorders.
+
 ### Blogging
 * [Svbtle](https://svbtle.com/) - A very simple platform for beautiful blog posts.
+* [Typed](https://www.typed.com/) - Another simple blogging platform that includes a Theme SDK.
 
 ### Compliance
 
