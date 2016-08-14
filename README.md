@@ -117,6 +117,7 @@ A list of interesting tools and resources for app design/development.
 * [Concord](http://www.concordnow.com/) - A contract creation and management platform.
 * [Beagle](https://getbeagle.co/) - Very impressive looking platform for creating proposals.
 * [Dribbox](http://dribbbox.com/) - Your Dribbble profile as your portfolio, automatic and instant.
+* [Indie Hackers](https://www.indiehackers.com/businesses) - Cool resource that shows how much revenue products are generating.
 
 ### Domain Management
 
